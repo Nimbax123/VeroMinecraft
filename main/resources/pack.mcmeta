@@ -1,0 +1,32 @@
+{
+  "pack": {
+    "description": {
+      "text": "${mod_id} resources"
+    },
+    "pack_format": 44
+  },
+  "filter": {
+    "block": [
+      {
+        "namespace": "minecraft",
+        "path": "recipe/diamond_pickaxe.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/diamond_sword.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/diamond_axe.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/diamond_shovel.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/diamond_hoe.json"
+      }
+    ]
+  }
+}
