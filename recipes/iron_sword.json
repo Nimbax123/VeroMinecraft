@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "C": {
+      "item": "minecraft:iron_ingot"
+    },
+    "H": {
+      "item": "modpippo:copper_handle"
+    }
+  },
+  "pattern": [
+    "C",
+    "C",
+    "H"
+  ],
+  "result": {
+    "item": "modpippo:iron_sword"
+  },
+  "show_notification": true
+}

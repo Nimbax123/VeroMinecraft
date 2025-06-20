@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "   ",
+    "SSS",
+    " S "
+  ],
+  "result": {
+    "item": "modpippo:iron_handle"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "C": {
+      "item": "minecraft:diamond"
+    },
+    "H": {
+      "item": "modpippo:iron_tool_handle"
+    }
+  },
+  "pattern": [
+    "CC",
+    "CH",
+    " H"
+  ],
+  "result": {
+    "item": "modpippo:diamond_axe"
+  },
+  "show_notification": true
+}

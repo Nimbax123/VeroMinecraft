@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "C": {
+      "item": "modpippo:eldurite"
+    },
+    "H": {
+      "item": "modpippo:iron_tool_handle"
+    }
+  },
+  "pattern": [
+    "CC",
+    "H ",
+    "H "
+  ],
+  "result": {
+    "item": "modpippo:eldurite_hoe"
+  },
+  "show_notification": true
+}

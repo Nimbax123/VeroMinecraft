@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "C": {
+      "item": "modpippo:garnet"
+    },
+    "H": {
+      "item": "modpippo:iron_tool_handle"
+    }
+  },
+  "pattern": [
+    "C",
+    "H",
+    "H"
+  ],
+  "result": {
+    "item": "modpippo:garnet_shovel"
+  },
+  "show_notification": true
+}

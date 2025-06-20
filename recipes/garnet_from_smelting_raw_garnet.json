@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.25,
+  "group": "garnet",
+  "ingredient": {
+    "item": "modpippo:raw_garnet"
+  },
+  "result": "modpippo:garnet"
+}

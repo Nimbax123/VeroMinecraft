@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "C": {
+      "item": "modpippo:garnet"
+    },
+    "H": {
+      "item": "modpippo:iron_tool_handle"
+    }
+  },
+  "pattern": [
+    "CCC",
+    " H ",
+    " H "
+  ],
+  "result": {
+    "item": "modpippo:garnet_pickaxe"
+  },
+  "show_notification": true
+}

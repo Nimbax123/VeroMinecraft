@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "C": {
+      "item": "modpippo:charoite"
+    },
+    "H": {
+      "item": "modpippo:iron_tool_handle"
+    }
+  },
+  "pattern": [
+    "CC",
+    "CH",
+    " H"
+  ],
+  "result": {
+    "item": "modpippo:charoite_axe"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "C": {
+      "item": "modpippo:charoite"
+    },
+    "H": {
+      "item": "modpippo:iron_handle"
+    }
+  },
+  "pattern": [
+    "C",
+    "C",
+    "H"
+  ],
+  "result": {
+    "item": "modpippo:charoite_sword"
+  },
+  "show_notification": true
+}

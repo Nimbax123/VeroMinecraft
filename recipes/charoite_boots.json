@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "C": {
+      "item": "modpippo:charoite"
+    }
+  },
+  "pattern": [
+    "   ",
+    "C C",
+    "C C"
+  ],
+  "result": {
+    "item": "modpippo:charoite_boots"
+  },
+  "show_notification": true
+}

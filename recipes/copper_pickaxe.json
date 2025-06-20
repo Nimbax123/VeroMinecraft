@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "C": {
+      "item": "minecraft:copper_ingot"
+    },
+    "H": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "CCC",
+    " H ",
+    " H "
+  ],
+  "result": {
+    "item": "modpippo:copper_pickaxe"
+  },
+  "show_notification": true
+}
